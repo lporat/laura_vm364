@@ -98,8 +98,17 @@ Start with 1 Bean Well, and 5 Foundation Cups, 2 of which can be upside down. Fi
 	
 After they steal, the targeted player adds twice the die roll in beans to their Bean Well.
 
-	Pour your beans onto your own tower to FORTIFY it.
+	They can pour their beans onto their own tower to FORTIFY it.
 	
-	Pour your beans onto another player’s tower to knock it over.
+	Pour their beans onto another player’s tower to knock it over.
 	
 If any non-foundation cups fall over, they are returned to the center. If a foundation cup is knocked over, it cannot be replaced.
+
+A player loses the game if all of their cups are knocked over
+
+The game goes on until a player successfully build their tower five layers high
+
+The game was successfully play tested with these rules.
+
+![winner](http://i.imgur.com/VeMzPPU.jpg)
+
