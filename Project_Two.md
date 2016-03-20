@@ -77,6 +77,8 @@ Start with 1 Bean Well, and 5 Foundation Cups, 2 of which can be upside down. Fi
 -Each player starts with 5 cups for their base. Two cups can be upside down and three cups can be right side up
 -Each player has a separate cup for their bean well
 -Goal is to get their tower five layers high
+![base](http://i.imgur.com/g2qwKA5.jpg)
+
 
 ###During the first round, players can:
 1.Take 2 cups from the middle and add them upright to their tower
