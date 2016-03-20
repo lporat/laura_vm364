@@ -20,7 +20,9 @@ We experimented using small and big cups but eventually we found that bigger cup
 We play tested the game with our classmates. These are the rules we used when we playtested it during this iteration.
 
 1.Players would start with a base of 5. They could place the cups however they liked but the cups were not moveable once placed.
+
 2. To win, players needed to have their cups stacked four layers high
+
 3. During each turn, players can
 		Take two cups from middle or
 		Decide to steal cups from other player for the chance of 1, 2, or 3 cups
@@ -43,6 +45,8 @@ Add beans (dice roll)
 3,4: 4
 5,6: 6
 
+![playtest](http://i.imgur.com/LFRW7h0.jpg)
+During this version, all the cups were stacked right side up
 
 
 ###PLAYTEST ADDITIONS:
