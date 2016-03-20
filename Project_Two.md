@@ -12,6 +12,10 @@ We wanted to make the game more engaging but also we did not want stealing to be
 ###Third iteration:
 We added the rule that players would start out with five right side up cups for their base. We still struggled with the fact that stealing was too powerful of a mechanism. We played through a round where players could not steal but it made the game go too slowly and it was boring so we scrapped that idea.
 
+![beans](http://i.imgur.com/t6reuoZ.jpg)
+We experimented using small and big cups but eventually we found that bigger cups were more effective than smaller cups
+
+
 ###Fourth iteration
 We play tested the game with our classmates. These are the rules we used when we playtested it during this iteration.
 
