@@ -74,16 +74,22 @@ Add beans double the dice roll to your well.
 Start with 1 Bean Well, and 5 Foundation Cups, 2 of which can be upside down. First to a tower 5 high wins.
 
 #How to Play:
+-Each player starts with 5 cups for their base. Two cups can be upside down and three cups can be right side up
+-Each player has a separate cup for their bean well
+-Goal is to get their tower five layers high
 
-During the player’s turn they can:
-Take 2 cups from the middle and add them upright to your tower
-Take 1 cup from the middle and add it upside down to your tower
-Steal from another player:
-Roll the d6, and steal the corresponding number of cups from one or more players. 
+###During the first round, players can:
+1.Take 2 cups from the middle and add them upright to their tower
+2.Take 1 cup from the middle and add it upside down to their tower
+
+###Starting with the second round, players can:
+1.Take 2 cups from the middle and add them upright to their tower
+2.Take 1 cup from the middle and add it upside down to their tower
+3. Steal from another player. In order to steal from another player, they must roll a six sided die. They can steal the corresponding number of cups from one or more players
 	1 or 2 = Steal 1 Cup
 	3 or 4 = Steal 2 Cups
 	5 or 6 = Steal 3 Cups
-After you steal, the targeted player adds twice the die roll in beans to their Bean Well.
+After they steal, the targeted player adds twice the die roll in beans to their Bean Well.
 	Pour your beans onto your own tower to FORTIFY it.
 	Pour your beans onto another player’s tower to knock it over.
 If any non-foundation cups fall over, they are returned to the center. If a foundation cup is knocked over, it cannot be replaced.
