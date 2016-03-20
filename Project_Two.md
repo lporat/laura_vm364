@@ -80,16 +80,26 @@ Start with 1 Bean Well, and 5 Foundation Cups, 2 of which can be upside down. Fi
 
 ###During the first round, players can:
 1.Take 2 cups from the middle and add them upright to their tower
+
 2.Take 1 cup from the middle and add it upside down to their tower
 
 ###Starting with the second round, players can:
 1.Take 2 cups from the middle and add them upright to their tower
+
 2.Take 1 cup from the middle and add it upside down to their tower
+
 3. Steal from another player. In order to steal from another player, they must roll a six sided die. They can steal the corresponding number of cups from one or more players
+
 	1 or 2 = Steal 1 Cup
+	
 	3 or 4 = Steal 2 Cups
+	
 	5 or 6 = Steal 3 Cups
+	
 After they steal, the targeted player adds twice the die roll in beans to their Bean Well.
+
 	Pour your beans onto your own tower to FORTIFY it.
+	
 	Pour your beans onto another player’s tower to knock it over.
+	
 If any non-foundation cups fall over, they are returned to the center. If a foundation cup is knocked over, it cannot be replaced.
