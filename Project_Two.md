@@ -1,4 +1,6 @@
-#<center><b>Bean Pour</b></center>
+#Bean Pour
+![title](http://i.imgur.com/os4GwJj.png)
+
 The concept: This game originated after we were given several prompts in class. We had to come up with a game featuring jealousy and water. Originally, we came up with a cereal stacking game in which players had to stack their cereal on top of each other and could pour milk in other players' bowls. You would play against other players and be timed on how fast you can stack your cereal bowls without them tipping over.
 
 ###First iteration: 
