@@ -34,16 +34,20 @@ When you steal cups:
 	if you knock over your own tower you're out!
 
 We played two versions of the game:
+
 	Version A: No beans!
 	
-	Version B: When you decide to steal, also have to add beans to the cup of the person you’re stealing from. They roll also, if 		it’s a tie, then they pour into urs.
+	Version B: When you decide to steal you have to add beans to the cup of the person you’re stealing from. The player you're stealing from rolls the dice too. If it’s a tie (aka they get the same number), then they pour the beans into your cup.
 
-Decide to skip turn and you can pour the beans from the cup into someone else's tower 
+You can decide to skip your turn and you can pour the beans from the cup into someone else's tower 
 
 Add beans (dice roll)
-1,2: 2
-3,4: 4
-5,6: 6
+
+1,2: 2 beans
+
+3,4: 4 beans
+
+5,6: 6 beans
 
 ![playtest](http://i.imgur.com/LFRW7h0.jpg)
 During this version, all the cups were stacked right side up
@@ -84,9 +88,13 @@ We went through many iterations of the game. The rules changed but the core mech
 Start with 1 Bean Well, and 5 Foundation Cups, 2 of which can be upside down. First to a tower 5 high wins.
 
 #How to Play:
+
 -Each player starts with 5 cups for their base. Two cups can be upside down and three cups can be right side up
+
 -Each player has a separate cup for their bean well
+
 -Goal is to get their tower five layers high
+
 ![base](http://i.imgur.com/g2qwKA5.jpg)
 
 
