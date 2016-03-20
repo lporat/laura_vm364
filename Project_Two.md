@@ -1,4 +1,16 @@
 #<center><b>Bean Pour</b></center>
+The concept: This game originated after we were given several prompts in class. We had to come up with a game featuring jealousy and water. Originally, we came up with a cereal stacking game in which players had to stack their cereal on top of each other and could pour milk in other players' bowls. You would play against other players and be timed on how fast you can stack your cereal bowls without them tipping over.
+
+#First round: 
+When we had class at the Engagement Lab, we decided to paper prototype our game using red plastic cups two dice. 
+Going around in a circle, players could either take two cups from the stack in the middle or take three cups from another player.
+
+We went through many iterations of the game. The rules changed but the core mechanic stayed the same. The ultimate goal was to stack your own cups to a certain level the fastest without knocking over your tower. 
+
+
+
+
+
 Start w base of 5
 Place as u like, immovable once placed 
  
@@ -57,9 +69,11 @@ Add beans double the dice roll to your well.
 
 
 
-3/16/16
+#3/16/16: Final iteration
 
 Start with 1 Bean Well, and 5 Foundation Cups, 2 of which can be upside down. First to a tower 5 high wins.
+
+#How to Play:
 
 During the player’s turn they can:
 Take 2 cups from the middle and add them upright to your tower
