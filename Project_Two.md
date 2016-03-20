@@ -1,50 +1,50 @@
 #<center><b>Bean Pour</b></center>
 The concept: This game originated after we were given several prompts in class. We had to come up with a game featuring jealousy and water. Originally, we came up with a cereal stacking game in which players had to stack their cereal on top of each other and could pour milk in other players' bowls. You would play against other players and be timed on how fast you can stack your cereal bowls without them tipping over.
 
-#First round: 
+###First iteration: 
 When we had class at the Engagement Lab, we decided to paper prototype our game using red plastic cups two dice. 
 Going around in a circle, players could either take two cups from the stack in the middle or take three cups from another player.
 
-We went through many iterations of the game. The rules changed but the core mechanic stayed the same. The ultimate goal was to stack your own cups to a certain level the fastest without knocking over your tower. 
 
+###Second iteration:
+We wanted to make the game more engaging but also we did not want stealing to be too powerful. We started experimenting with the addition of beans to be a countermeasure against stealing. Players could gain beans and try to knock over other people's towers by throwing beans at the towers. This did not prove to be very effective.
 
+###Third iteration:
+We added the rule that players would start out with five right side up cups for their base. We still struggled with the fact that stealing was too powerful of a mechanism. We played through a round where players could not steal but it made the game go too slowly and it was boring so we scrapped that idea.
 
+###Fourth iteration
+We play tested the game with our classmates. These are the rules we used when we playtested it during this iteration.
 
-
-Start w base of 5
-Place as u like, immovable once placed 
- 
-CORE MECHANICS: 
--to win you need to have 4 cups high
--after you take your hand off cups they can’t move
--each turn you can:	
-
-		Take two from middle or
+1.Players would start with a base of 5. They could place the cups however they liked but the cups were not moveable once placed.
+2. To win, players needed to have their cups stacked four layers high
+3. During each turn, players can
+		Take two cups from middle or
 		Decide to steal cups from other player for the chance of 1, 2, or 3 cups
 				
 Dice Roll: 1,2: 1 cup; 3,4: 2 cups; 5,6: 3 cups 
 
 When you steal cups:
-if you knock over the other person's tower you’re out
-if you knock over your own tower you're out!
+	if you knock over the other person's tower you’re out
+	if you knock over your own tower you're out!
 
-Version A: No beans!
-
-Version B: When you decide to steal, also have to add beans to the cup of the person you’re stealing from. They roll also, if it’s a tie, then they pour into urs.
+We played two versions of the game:
+	Version A: No beans!
+	
+	Version B: When you decide to steal, also have to add beans to the cup of the person you’re stealing from. They roll also, if 		it’s a tie, then they pour into urs.
 
 Decide to skip turn and you can pour the beans from the cup into someone else's tower 
 
-Add beans
+Add beans (dice roll)
 1,2: 2
 3,4: 4
 5,6: 6
 
 
 
-PLAYTEST ADDITIONS:
+###PLAYTEST ADDITIONS:
 
-Start w base of 5 (maybe 7)
-Place as u like, immovable once placed 
+Start with base of 5 (maybe 7) cups
+Place as they like, immovable once placed 
  
 CORE MECHANICS: 
 -to win you need to have 4 cups high
@@ -64,9 +64,11 @@ When you steal cups:
 if you knock over the other person's tower you’re out
 if you knock over your own tower you're out!
 
-Well of beans: Only time you can add bea
+Well of beans:
 Add beans double the dice roll to your well.
 
+
+We went through many iterations of the game. The rules changed but the core mechanic stayed the same. The ultimate goal was to stack your own cups to a certain level the fastest without knocking over your tower. 
 
 
 #3/16/16: Final iteration
