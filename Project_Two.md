@@ -89,7 +89,7 @@ We went through many iterations of the game. The rules changed but the core mech
 
 Start with 1 Bean Well, and 5 Foundation Cups, 2 of which can be upside down. First to a tower 5 high wins.
 
-#/3/21/16: Playtest
+#3/21/16: Playtest
 Playtesters thought the game was fun! They really enjoyed being introduced to the rules in 2 stages: "it was like a tutorial."
 
 One criticism they had was that stealing was too strong, and could always stop a win. They recognized the chance of stealing 1-3 cups, but still felt the mechanic needed tweaking.
