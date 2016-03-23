@@ -4,7 +4,7 @@
 The concept: This game originated after we were given several prompts in class. We had to come up with a game featuring jealousy, creativity, and water. Originally, we came up with a cereal stacking game in which players had to stack their cereal on top of each other and could pour milk in other players' bowls. You would play against other players and be timed on how fast you can stack your cereal bowls without them tipping over.
 
 ###First iteration: 
-When we had class at the Engagement Lab, we decided to paper prototype our game using red plastic cups two dice. 
+When we had class at the Engagement Lab, we decided to paper prototype our game using red plastic cups and a die. 
 Going around in a circle, players could either take two cups from the stack in the middle or take three cups from another player.
 
 
