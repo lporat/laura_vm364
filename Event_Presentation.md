@@ -17,3 +17,7 @@ While Pong wasn't the first video game, it was the first commercially successful
 After the first few video games came out, arcade games exploded in popularity. The first commercially successful console was the Atari VCS.
 ![Atari VCS]
 (http://i.imgur.com/0qFrBMc.jpg)
+
+Then in 1983, there was the video game crash. The market at that point was so oversaturated with games that people were no longer
+buying any new games. It lasted from 1983 to 1985. It was a disaster for video game manufacturers especially Atari. This caused
+many doubts whether video games could ever be a viable long-term business. 
