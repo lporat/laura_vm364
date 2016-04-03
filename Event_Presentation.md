@@ -18,6 +18,10 @@ After the first few video games came out, arcade games exploded in popularity. T
 ![Atari VCS]
 (http://i.imgur.com/0qFrBMc.jpg)
 
-Then in 1983, there was the video game crash. The market at that point was so oversaturated with games that people were no longer
-buying any new games. It lasted from 1983 to 1985. It was a disaster for video game manufacturers especially Atari. This caused
+In 1983, there was the video game crash. The market at that point was so oversaturated with games that people were no longer
+buying any new games. It lasted two years from 1983 to 1985. It was a disaster for video game manufacturers especially Atari. In 1982, they released E.T. which was one of the biggest commercial failures in video gaming history. This caused
 many doubts whether video games could ever be a viable long-term business. 
+
+Luckily, the game industry recovered from the crash. The 90s saw improvements in video game graphics with the SNES that had 16 bit graphics and it was the best selling console of the era. The 90s also the introduction of portable consoles with the Game Boy which was released in 1989 in Japan. 
+
+The end of the '90s and into the 2000s cemented the "big three" video game console manufacturers which were Nintendo, Microsoft, and Sony. Sega, Atari, and the others were out. 
