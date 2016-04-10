@@ -38,5 +38,5 @@ After the panel ended, I went to a huge room in which they had a bunch of video 
 
 This was a dancing game that relied on software similar to the Xbox kinnect and it would be able to tell where the players' positions and what their movements were like in order to give them a score. 
 ![VG]
-(http://imgur.com/ZKK6UYk)
+(https://i.imgur.com/ZKK6UYk.jpg)
 
