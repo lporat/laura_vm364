@@ -34,7 +34,7 @@ New technologies are also dramatically impacting the industry. It is too early t
 
 After the panel ended, I went to a huge room in which they had a bunch of video game stations set up. They had games like Super Smash Bros but there were a bunch of cool Japanese games I hadn't seen before. 
 ![VG]
-(http://imgur.com/EdoTq6H)
+(https://i.imgur.com/EdoTq6H.jpg)
 
 This was a dancing game that relied on software similar to the Xbox kinnect and it would be able to tell where the players' positions and what their movements were like in order to give them a score. 
 ![VG]
