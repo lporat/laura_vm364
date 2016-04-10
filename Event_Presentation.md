@@ -40,3 +40,4 @@ This was a dancing game that relied on software similar to the Xbox kinnect and 
 ![VG]
 (https://i.imgur.com/ZKK6UYk.jpg)
 
+Overall, Anime Boston was a lot of fun and I would recommend going next year if you're a fan of anime and anime-style video games. There were a lot of really interesting panels about the anime industry, representation in anime, and so on. 
