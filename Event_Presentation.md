@@ -31,3 +31,12 @@ The video game industry today is rapidly undergoing changes. The introduction of
 Interestingly enough, the video game industry has a huge reliance on Metacritic scores. Metacritic is a review aggregation site in which people can rate the games they have played. Video game publishers use Metacritic scores as a way to make deals with video game developers. Metacritic scores are crucial in negotating deals with developers as a good score can mean big bonuses but a bad score can jeapordize their deals. Higher reviews mean more money and lower reviews mean less money. For example, Bethesda was going to give developer Obsidian a bonus if Fallout: New Vegas averaged an 85 on Metacritic. However, the game averaged slightly less than an 85 (it got an 84) and Obsidian didn't get their bonus. 
 
 New technologies are also dramatically impacting the industry. It is too early to tell how Virtual Reality will change the industry with the introduction of the Oculus Rift but it should be exciting to witness. 
+
+After the panel ended, I went to a huge room in which they had a bunch of video game stations set up. They had games like Super Smash Bros but there were a bunch of cool Japanese games I hadn't seen before. 
+![VG]
+(http://imgur.com/EdoTq6H)
+
+This was a dancing game that relied on software similar to the Xbox kinnect and it would be able to tell where the players' positions and what their movements were like in order to give them a score. 
+![VG]
+(http://imgur.com/ZKK6UYk)
+
