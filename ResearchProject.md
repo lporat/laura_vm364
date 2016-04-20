@@ -18,3 +18,8 @@ The script sets up the delay range for the spawn regeneration and it instatiates
 
 ![unity1]
 (http://i.imgur.com/PWJ5Qr6.png)
+
+The cog has a rigidbody and a velocity script which allow it to go across the screen 
+
+![screenshot]
+(http://i.imgur.com/e61Imyt.png)
