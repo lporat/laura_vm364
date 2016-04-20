@@ -7,3 +7,8 @@ I imported in my cog as a still image. Then I used Unity's animation tool to ani
 
 ![yes]
 (http://i.imgur.com/f5bww1U.png)
+
+I made my cog into a prefab and named it Spawner. Then I wrote a script that a Lynda.com video provided.
+
+![script]
+(http://i.imgur.com/onM8l2w.png)
