@@ -14,7 +14,7 @@ http://www.lynda.com/Unity-2D-tutorials/Making-obstacles-recyclable/185319/38665
 ![script]
 (http://i.imgur.com/y1R1Ga0.png)
 
-The script sets up the delay range for the spawn regeneration and it instatiates the cog at the set point in which I physically placed it at. 
+The script sets up the delay range for the spawn regeneration and it instatiates the cog at the set point in which I physically placed it at. I made the cog a prefab and attached the script to it.
 
-![unity]
-(http://i.imgur.com/y1R1Ga0.png)
+![unity1]
+(http://i.imgur.com/PWJ5Qr6.png)
