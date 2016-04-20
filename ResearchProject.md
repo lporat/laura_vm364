@@ -9,6 +9,7 @@ I imported in my cog as a still image. Then I used Unity's animation tool to ani
 (http://i.imgur.com/f5bww1U.png)
 
 I made my cog into a prefab and named it Spawner. Then I wrote a script that a Lynda.com video provided.
+http://www.lynda.com/Unity-2D-tutorials/Making-obstacles-recyclable/185319/386655-4.html?autoplay=true
 
 ![script]
 (http://i.imgur.com/y1R1Ga0.png)
