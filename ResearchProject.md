@@ -11,4 +11,6 @@ I imported in my cog as a still image. Then I used Unity's animation tool to ani
 I made my cog into a prefab and named it Spawner. Then I wrote a script that a Lynda.com video provided.
 
 ![script]
-(http://i.imgur.com/onM8l2w.png)
+(http://i.imgur.com/y1R1Ga0.png)
+
+The script sets up the delay range for the spawn regeneration and it instatiates the cog at the set point in which I physically placed it at. 
