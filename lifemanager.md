@@ -1,10 +1,10 @@
-using UnityEngine;
-using System.Collections;
-using UnityEngine.UI;
-using UnityEngine.SceneManagement;
+	using UnityEngine;
+	using System.Collections;
+	using UnityEngine.UI;
+	using UnityEngine.SceneManagement;
 
 
-public class LifeManager : MonoBehaviour {
+	public class LifeManager : MonoBehaviour {
 
 	public int startingLives;
 	private int lifeCounter;
@@ -70,12 +70,12 @@ public class LifeManager : MonoBehaviour {
 	}
 
 	//this doesn't work :( 
-//	public static void DeathScene() {
-//		if (lifeCounter < 0) {
-//			Debug.Log ("Loser");
-//	//		SceneManagement.SceneManager.LoadScene ("scene02");
-//			SceneManager.LoadScene (1);
-//		}
-//	}
+	//		public static void DeathScene() {
+	//			if (lifeCounter < 0) {
+	//				Debug.Log ("Loser");
+	//	//			SceneManagement.SceneManager.LoadScene ("scene02");
+	//				SceneManager.LoadScene (1);
+	//		}
+	//	}
 
 }
